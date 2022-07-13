@@ -6,14 +6,14 @@ From the [Skillfactory Data Science course] (https://skillfactory.ru/data-scienc
 * []
 * []
 
-# Проект 0. Угадай число.
+# Проект 0. Угадай число за min число попыток.
 
 # Юнит 8. Инструменты для Data Science 
 
 ## Оглавление
-[1. Описание проекта] (https://github.com/Ulyana-Is/data_science_sf/blob/main/project_0/README.md#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
-[2. Какой кейс решаем] (https://github.com/Ulyana-Is/data_science_sf/blob/main/project_0/README.md#%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B5%D0%B9%D1%81-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC)
-[3. Краткая информация о данных] (https://github.com/Ulyana-Is/data_science_sf/blob/main/project_0/README.md#%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F-%D0%BE-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
+[1. Описание проекта] (https://github.com/Ulyana-Is/data_science_sf/blob/main/project_0/README.md#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)/
+[2. Какой кейс решаем] (https://github.com/Ulyana-Is/data_science_sf/blob/main/project_0/README.md#%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B5%D0%B9%D1%81-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC)/
+[3. Краткая информация о данных] (hhttps://github.com/Ulyana-Is/data_science_sf/blob/main/project_0/README.md#%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F-%D0%BE-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)/
 [4. Этапы работы над проектом] ()
 [5. Результат] ()
 [6. Выводы] ()
@@ -21,7 +21,7 @@ From the [Skillfactory Data Science course] (https://skillfactory.ru/data-scienc
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.
 
-arrow up: [к оглавлению] ()
+arrow up: [к оглавлению] (https://github.com/Ulyana-Is/data_science_sf/blob/main/project_0/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### Какой кейс решаем?
 Нужно написать программу, которая угадывает число за минимальное число попыток 
@@ -36,17 +36,23 @@ arrow up: [к оглавлению] ()
 
 **Что практикуем:**
 Учимся писать хороший код на Python
+Учимся работать с IDE
+Учимся работать с GitHub
 
 ### Краткая информация о данных
 
-Числа от 0 до 100
-Указываются файлы исходных данных с комментарием
+Диапазон чисел от 0 до 100, 100 попыток
 
-arrow up: [к оглавлению] ()
+arrow up: [к оглавлению] (https://github.com/Ulyana-Is/data_science_sf/blob/main/project_0/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### Этапы работы над проектом
+Изучение базового кода по угадыванию числа
+Модификация и отладка кода для угадывания за минимальное число попыток, сравнение с серединой диапазона
+Размещение кода на GitHub
 
 ### Результат
+При простом угадывании числа среднее число попыток в районе 100
+При доработке кода среднее число попыток - 6.
 
 ### Выводы
-
+При сравнении предалагаемого числа с серединой диапазона среднее количество попыток минимально 
