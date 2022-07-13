@@ -41,7 +41,7 @@ arrow up: [к оглавлению] (https://github.com/Ulyana-Is/data_science_s
 
 ### Краткая информация о данных
 
-Диапазон чисел от 0 до 100, 100 попыток
+Диапазон чисел от 0 до 100, 1000 повторений
 
 arrow up: [к оглавлению] (https://github.com/Ulyana-Is/data_science_sf/blob/main/project_0/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
