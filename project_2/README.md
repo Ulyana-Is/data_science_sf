@@ -2,7 +2,7 @@
 
 From the [Skillfactory Data Science course](https://skillfactory.ru/data-science-specialization) 
 
-# Проект 2. [Анализ вакансий на HeadHunter](https://github.com/Ulyana-Is/data_science_sf/tree/master/project_2).
+# [Проект 2. Анализ вакансий на HeadHunter](https://github.com/Ulyana-Is/data_science_sf/tree/master/project_2).
 
 ## Оглавление
 [1. Описание проекта](https://github.com/Ulyana-Is/data_science_sf/tree/master/project_2#1-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
@@ -79,7 +79,8 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-science
         +  'ML' (здесь не нужно брать вакансии по HTML)
         +  'machine learning'
         +  'машинн%обучен%'работодателей в разных регионах;
-       + в т.ч. для начинающих дата-сайентистов.
+       
+     +  в т.ч. для начинающих дата-сайентистов.
 
     + 5.3) количесвто вакансий, где в ключевых навыках (поле key_skills в таблице vacancies) указаны Python, или SQL, или postgres, а также среднее количество навыков для дата-сайентиста;
     + 5.4) средний уровень заработной платы в зависимости от требуемого опыта;
