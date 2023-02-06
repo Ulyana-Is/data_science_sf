@@ -101,7 +101,7 @@ arrow up: [к оглавлению] ()
 
 
 ### **Результат**
-Подробная инфомация приведены в [].
+Подробная инфомация приведена в [https://github.com/Ulyana-Is/data_science_sf/blob/master/project_2/Project_2_%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA.ipynb].
 
  
 ### Выводы
