@@ -28,10 +28,10 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-science
 + преобразовать признаки и создать новые, влияющие на рейтинг отелей;
 + осуществить отбор признаков;
 + провести обучение модели;
-+ разместить результат в соревновании на *[Kaggle]*(https://www.kaggle.com/competitions/sf-booking).  
++ разместить результат в соревновании на *[Kaggle](https://www.kaggle.com/competitions/sf-booking)*.  
 
 **Условия соревнования:**
-Определены на *[Kaggle]*(https://www.kaggle.com/competitions/sf-booking).
+Определены на *[Kaggle](https://www.kaggle.com/competitions/sf-booking)*.
 
 **Метрика качества:**
 + Качество кода (соблюдение стандартов оформления PEP-8, комментирование кода, README к проекту). Оформление проекта на GitHub, GitLab, Kaggle.
